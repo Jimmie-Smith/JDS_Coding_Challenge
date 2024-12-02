@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "minitest": "^0.2.0"
+  }
+}
